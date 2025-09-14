@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🚀 Hi, I'm Kavya!  
 
-<!--
-**Kavya4Hack/Kavya4Hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Software Engineer | Web Developer | 🐍 Python Developer | 🤖 AI/ML Enthusiast**  
 
-Here are some ideas to get you started:
+I build efficient, scalable, and user-focused applications with a strong foundation in **Python, web technologies, and data-driven solutions**. Passionate about **AI/ML, automation, and solving real-world problems** with clean and maintainable code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+- **Languages & Frameworks:** Python, Django, Flask, JavaScript, React  
+- **Databases & Tools:** SQL, Git, REST APIs  
+- **Other:** AI/ML, Data Science, Automation  
+
+---
+
+### 📊 Interests
+- Machine Learning & AI Agents  
+- Data Science & Visualization  
+- Open-Source Contributions  
+
+---
+
+### 🌱 Currently Exploring
+- Advanced AI/ML models  
+- Modern Web Frameworks  
+- Intelligent Automation  
+
+---
