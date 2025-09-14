@@ -8,7 +8,7 @@ I build efficient, scalable, and user-focused applications with a strong foundat
 
 ### 💻 Tech Stack
 - **Languages & Frameworks:** Python, Django, Flask, JavaScript, React  
-- **Databases & Tools:** SQL, Git, REST APIs  
+- **Databases & Tools:** SQL, Git, PostgreSQL 
 - **Other:** AI/ML, Data Science, Automation  
 
 ---
@@ -21,7 +21,7 @@ I build efficient, scalable, and user-focused applications with a strong foundat
 ---
 
 ### 🌱 Currently Exploring
-- Advanced AI/ML models  
+- AI/ML models  
 - Modern Web Frameworks  
 - Intelligent Automation  
 
